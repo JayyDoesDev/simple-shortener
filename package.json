@@ -1,0 +1,10 @@
+{
+  "name": "simple-shortener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "J_DDev <69683068+JayyDoesDev@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
