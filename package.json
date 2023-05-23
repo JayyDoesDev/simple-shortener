@@ -5,6 +5,7 @@
   "author": "J_DDev <69683068+JayyDoesDev@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^7.2.0"
   }
 }
